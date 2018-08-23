@@ -1,0 +1,23 @@
+<template>
+	<page id="search">
+		<div class="backHome">
+			<div class="arrow">></div>
+		</div>
+	</page>
+</template>
+<script type="text/javascript">
+	
+</script>
+<style scoped>
+	.backhome{
+		width: 60px;
+		height: 50px;
+		fill:#999;
+		padding:10px 10px 10px 0;
+	}
+	.backhome .arrow{
+		width: 22px;
+		height: 38px;
+		text-align: center;
+	}
+</style>
